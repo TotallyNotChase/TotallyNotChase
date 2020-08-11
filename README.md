@@ -1,16 +1,15 @@
-### Hi there 👋
+### Whoa there! :watch:
 
-<!--
-**TotallyNotChase/TotallyNotChase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://avatars0.githubusercontent.com/u/44284917">
 
-Here are some ideas to get you started:
+I'm Chase, despite what my username might lead you to believe. Although, that's not my real name. My real name is actually <ins>**[REDACTED]**</ins>; I'm a <ins>**[REDACTED]**</ins> year old programmer from <ins>**[REDACTED]**</ins>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You might know me from such classics as,
+
+
+or you might not know me at all, which is actually far more probable. Convenient.
+
+### Things I Like working with
+
+
+### Stalk me elsewhere :ghost:
