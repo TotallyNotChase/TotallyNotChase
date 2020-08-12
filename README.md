@@ -1,6 +1,6 @@
 ### Whoa there! :watch:
 
-<img align="right" src="./images/helmet.png">
+<img align="right" height="640" src="./images/broken.gif">
 
 I'm Chase, despite what my username might lead you to believe. Although, that's not my real name. My real name is actually <ins>**[REDACTED]**</ins>; I'm a <ins>**[REDACTED]**</ins> year old programmer from <ins>**[REDACTED]**</ins>.
 
