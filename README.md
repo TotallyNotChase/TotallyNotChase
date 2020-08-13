@@ -2,7 +2,7 @@
 
 <img align="right" height="350" src="https://github.com/TotallyNotChase/TotallyNotChase/raw/master/images/broken.gif">
 
-I'm Chase, despite what my username might lead you to believe. Although, that's not my real name. My real name is actually <ins>**[REDACTED]**</ins>; I'm a <ins>**[REDACTED]**</ins> year old programmer from <ins>**[REDACTED]**</ins>.
+I'm Chase, despite what my username might lead you to believe. Although, that's not my real name. My real name is actually <ins>**[REDACTED]**</ins>; I'm a <ins>**[REDACTED]**</ins> year old programmer and computer hardware enthusiast from <ins>**[REDACTED]**</ins>.
 
 You might know me from such classics as,
 
