@@ -18,11 +18,11 @@ You might know me from such classics as,
   
   Facebook chatbot trained to talk like you using Seq2Seq
   
-* 📡 [lib-native-messaging](https://github.com/TotallyNotChase/lib-native-messaging)
+* 📡 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
 
   <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/lib-native-messaging.svg?label=Stars&style=flat" />
   
-  Communicate with browser extensions from native C applications!
+  A demonstration of implementing a "type-safe" lazy iterator interface in pure C99
 
 or you might not know me at all, which is actually far more probable. Convenient.
 
