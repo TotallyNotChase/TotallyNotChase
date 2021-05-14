@@ -20,7 +20,7 @@ You might know me from such classics as,
   
 * 📡 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/lib-native-messaging.svg?label=Stars&style=flat" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/c-iterators.svg?label=Stars&style=flat" />
   
   A demonstration of implementing a "type-safe" lazy iterator interface in pure C99
 
