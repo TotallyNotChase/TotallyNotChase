@@ -18,7 +18,7 @@ You might know me from such classics as,
   
   Facebook chatbot trained to talk like you using Seq2Seq
   
-* 📡 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
+* 📚 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
 
   <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/c-iterators.svg?label=Stars&style=flat" />
   
