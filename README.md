@@ -45,7 +45,7 @@ or you might not know me at all, which is actually far more probable. Convenient
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 ### Stalk me elsewhere :ghost:
-[<img height="50" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg">](https://stackoverflow.com/users/10305477/chase)[<img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">](https://dev.to/totally_chase)
+[<img height="50" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg">](https://stackoverflow.com/users/10305477/chase)
 
 ### Get in touch ✉️
 <a href="mailto:totallynotchase42@gmail.com">Email me</a>
