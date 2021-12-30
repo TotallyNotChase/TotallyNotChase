@@ -2,47 +2,32 @@
 
 <img align="right" height="350" src="https://github.com/TotallyNotChase/TotallyNotChase/raw/master/images/broken.gif">
 
-I'm Chase, despite what my username might lead you to believe. Although, that's not my real name. My real name is actually <ins>**[REDACTED]**</ins>; I'm a <ins>**[REDACTED]**</ins> year old programmer and computer hardware enthusiast from <ins>**[REDACTED]**</ins>.
+I'm Chase, despite what my username might lead you to believe. I'm a programmer and computer hardware enthusiast.
 
-You might know me from such classics as,
+I mostly write Haskell these days and not much else.
 
-* 📷 [glitch-this](https://github.com/TotallyNotChase/glitch-this)
-
-  <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/glitch-this.svg?label=Stars&style=flat" />
-
-  Glitchify images and GIFs - with highly customizable options!
-
-* 🤖 [Facebook-Messenger-Bot](https://github.com/adeshpande3/Facebook-Messenger-Bot)
-
-  <img alt="Stars" src="https://img.shields.io/github/stars/adeshpande3/Facebook-Messenger-Bot.svg?label=Stars&style=flat" />
-  
-  Facebook chatbot trained to talk like you using Seq2Seq
-  
+Projects I like-
 * 📚 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
 
   <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/c-iterators.svg?label=Stars&style=flat" />
   
   A demonstration of implementing a "type-safe" lazy iterator interface in pure C99
+* 📚 [typeclass-interface-pattern](https://github.com/TotallyNotChase/typeclass-interface-pattern)
+  
+  <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/typeclass-interface-pattern.svg?label=Stars&style=flat" />
+  
+  Ideas, thoughts, and notes on a typeclass/interface based polymorphism pattern for standard C
+* ✔️ [valida](https://github.com/TotallyNotChase/valida)
 
-or you might not know me at all, which is actually far more probable. Convenient.
+  <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/valida.svg?label=Stars&style=flat" />
+  
+  Simple, elegant, profunctorial, applicative validation for product types!
 
-(there's bigger stuff going on under the hood but I can't reveal them, lest I pull the plug off of them before finishing)
+(there's also bigger projects that I can't reveal yet)
 
-### Things I work with ⌨️
+### Things I like 🙃
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-### Things I unconditionally love way too much 🙃
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 ### Stalk me elsewhere :ghost:
 [<img height="50" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg">](https://stackoverflow.com/users/10305477/chase)
