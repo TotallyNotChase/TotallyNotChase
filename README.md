@@ -6,7 +6,7 @@ I'm Chase, despite what my username might lead you to believe. I'm a programmer 
 
 I mostly write Haskell these days and not much else.
 
-Projects I like-
+Projects I'm somewhat proud of-
 * 📚 [c-iterators](https://github.com/TotallyNotChase/c-iterators)
 
   <img alt="Stars" src="https://img.shields.io/github/stars/TotallyNotChase/c-iterators.svg?label=Stars&style=flat" />
